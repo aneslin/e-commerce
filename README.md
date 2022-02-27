@@ -63,3 +63,6 @@ api/products
 
 ## Screenshot
 ![Screenshot of 'GET' in Insomnia](./tag_get.png)
+
+##
+[video demo](https://drive.google.com/file/d/15eSyrB1CWRt6Cp1vEA3KAf4XTOj9zFMl/view)
